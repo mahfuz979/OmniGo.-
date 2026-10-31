@@ -1,0 +1,1 @@
+Phase 1 done (scaffold). Next: 2 Provider onboarding + locations, 3 Ecommerce, 4 Booking + Rides, 5 Payments, 6 Security + release. Bangladesh legal/payment/transport/licensing rules need professional review before launch.
